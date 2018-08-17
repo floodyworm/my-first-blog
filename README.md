@@ -6,11 +6,12 @@
 This project covers the following in sufficient detail so as to be comfortable with developing a new Django app:
 1.  Python programming language basics
 2.  Django Object Relational Mapping (ORM)
-3.  Use of MySQL (Other databases can be: MySQL, PostgreSQL, SQLite 3, Oracle and NoSQL databses such as 
-4.  MongoDb and GoogleAppEngine Datastore. This project uses MySQL because www.pythonanywhere.com allows a free account only to use MySQL database.)
-5.  HTML and Django Template extending
-6.  Applying CSS 
-7.  Implementing Bootstrap library
-8.  Creating Django Forms
-9.  Considerations to security (also see: https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/) before deploying to Cloud ( using www.pythonanywhere.com but others, such as, AWS can be used)
-10. Version controlling of the project development using GitHub
+3.  Use of MySQL (other databases can be: MySQL, PostgreSQL, SQLite 3, Oracle and NoSQL databases such as MongoDb and GoogleAppEngine Datastore. This project uses MySQL because with a free account, use of only MySQL database is permitted by www.pythonanywhere.com)
+4.  HTML and Django Template extending
+5.  Applying CSS 
+6.  Implementing Bootstrap library
+7.  Creating Django Forms
+8.  Considerations to security (also see: https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/) before deploying to Cloud ( using www.pythonanywhere.com but others, such as, AWS can be used)
+9.  Version controlling of the project development using GitHub
+
+My experience of developing this project will be published shortly. 
